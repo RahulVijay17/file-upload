@@ -1,0 +1,8 @@
+com\fileupload\demo\FileUploadDemoApplication.class
+com\fileupload\demo\exception\FileStorageException.class
+com\fileupload\demo\impl\FileStorageServiceImpl.class
+com\fileupload\demo\controller\FileUploadController.class
+com\fileupload\demo\model\FileMetadata.class
+com\fileupload\demo\exception\InvalidFileException.class
+com\fileupload\demo\model\FileMetadata$FileMetadataBuilder.class
+com\fileupload\demo\repository\FileMetadataRepository.class
